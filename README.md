@@ -14,16 +14,20 @@ That’s why I am making ‘Skip Woke Movie Player’.
 A simple but effective way to enjoy movies and tv shows without propaganda.
 
 
+
 **How to use it?**
 
-It currently works with movie video files only. Netflix and Apple TV kind of devices will be supported later. 
+It currently only works with movie video files. Netflix and Apple TV kind of devices will be supported later. 
 If you watch movies with VLC or some other media player, you can use SWMP.
 
 Step 1. Get the movie file. eg. No-Time-to-Die.mp4
+
 Step 2. Get the corresponding .swmp file for that movie. eg. No-Time-to-Die.swmp
+
 Step 3. Play the movie with Skip Woke Movie Player!
 
 All annoying scenes with woke agenda will automatically be skipped by the player.
+
 
 **What is .swmp file?**
 
