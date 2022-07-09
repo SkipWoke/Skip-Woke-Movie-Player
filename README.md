@@ -15,6 +15,7 @@ A simple but effective way to enjoy movies and tv shows without propaganda.
 
 
 **How to use it?**
+
 It currently works with movie video files only. Netflix and Apple TV kind of devices will be supported later. 
 If you watch movies with VLC or some other media player, you can use SWMP.
 
@@ -25,6 +26,7 @@ Step 3. Play the movie with Skip Woke Movie Player!
 All annoying scenes with woke agenda will automatically be skipped by the player.
 
 **What is .swmp file?**
+
 .swmp stands for Skip Woke Movie Player. It is similar to .srt file which are used to show subtitle for movies.
 
 Here's an example of how a .swmp file might look like:
@@ -46,6 +48,7 @@ Basically the format to specify which scene to skip is like this:
 
 
 **Where do I find .swmp files?**
+
 I will need your help for this. Hollywood has money but we have *people power*!
 You can create and share .swmp files for your movies. You can share them freely with family and friends.
 You can also mail me your files at skipwokevideoplayer@proton.me and I will add them on this page.
