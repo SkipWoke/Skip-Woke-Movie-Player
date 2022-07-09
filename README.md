@@ -62,6 +62,7 @@ Skip Woke will always be a free and open source project. This project doesn't be
 
 
 **Timeline**
+
 I am currently working on the player and expect to release it in the next few weeks. I will later add a link to a newsletter where you can subscribe for updates.
 
 If you are a developer and want to work on this project, let me know.
